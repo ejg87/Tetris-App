@@ -2,7 +2,7 @@
     <v-app>
       <!-- App Bar (Top Navigation) -->
       <v-app-bar app color="deep-purple accent-4" dark>
-        <v-toolbar-title>My Vue App</v-toolbar-title>
+        <v-toolbar-title>My App</v-toolbar-title>
         <v-spacer></v-spacer>
         <v-btn text @click="sayHello">Click Me</v-btn>
       </v-app-bar>
